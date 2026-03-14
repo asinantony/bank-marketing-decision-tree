@@ -96,6 +96,7 @@ bank-marketing-decision-tree
 └── README.md                        # Project documentation
 ---
 
+---
 ## Learning Outcomes
 
 This project helped practice:
