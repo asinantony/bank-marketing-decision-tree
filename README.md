@@ -90,20 +90,10 @@ Steps performed:
 bank-marketing-decision-tree
 │
 ├── bank_marketing_prediction.ipynb
+│
 ├── bank_marketing_dataset.csv
+│
 └── README.md
-
----
-
-## Example Output
-
-### Dataset Preview
-
-![Dataset Preview](images/dataset_preview.png)
-
-### Model Predictions
-
-![Prediction Output](images/prediction_output.png)
 
 ---
 
