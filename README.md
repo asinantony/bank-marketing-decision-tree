@@ -85,18 +85,18 @@ Steps performed:
 8. Evaluate model performance
 
 ---
-
 ## Project Structure
 
 ```
-bank-marketing-decision-tree
+bank-marketing-decision-tree/
 │
 ├── bank_marketing_prediction.ipynb   # Jupyter Notebook containing ML model
-├── bank_marketing_dataset.csv       # Dataset used for training and testing
-└── README.md                        # Project documentation
----
+├── bank_marketing_dataset.csv        # Dataset used for training and testing
+└── README.md                         # Project documentation
+```
 
 ---
+
 ## Learning Outcomes
 
 This project helped practice:
@@ -129,7 +129,7 @@ Future improvements for this project:
 BCA Data Analytics Graduate  
 Aspiring Data Analyst / AI Analyst  
 
-LinkedIn  
+LinkedIn:  
 www.linkedin.com/in/asin-fraisiya-v-a-36694427a
 
 ---
@@ -137,3 +137,4 @@ www.linkedin.com/in/asin-fraisiya-v-a-36694427a
 ## License
 
 This project is created for learning and educational purposes.
+
