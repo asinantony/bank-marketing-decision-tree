@@ -87,14 +87,13 @@ Steps performed:
 ---
 
 ## Project Structure
+
+```
 bank-marketing-decision-tree
 │
-├── bank_marketing_prediction.ipynb
-│
-├── bank_marketing_dataset.csv
-│
-└── README.md
-
+├── bank_marketing_prediction.ipynb   # Jupyter Notebook containing ML model
+├── bank_marketing_dataset.csv       # Dataset used for training and testing
+└── README.md                        # Project documentation
 ---
 
 ## Learning Outcomes
